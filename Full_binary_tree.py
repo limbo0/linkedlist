@@ -1,3 +1,5 @@
+#A full Binary tree is a special type of binary tree in which every parent node/internal node has either two or no children.
+
 class Node:
     def __init__(self, item):
         self.item = item
