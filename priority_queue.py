@@ -1,5 +1,5 @@
 # Priority Queue implementation in Python
-
+# Max-heap 
 
 # Function to heapify the tree
 def heapify(arr, n, i):
